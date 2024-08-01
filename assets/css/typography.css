@@ -55,7 +55,7 @@ article p+p::before {content:"¶ "; color: crimson;}
 
 .logo-crazy{
   font-family: picnic;
-  font-size: 15rem; 
+  font-size: 15vw; 
   color: crimson;
 
 }
