@@ -52,3 +52,25 @@ article p+p::before {content:"¶ "; color: crimson;}
     margin: 50px;
 }
 .info-home{line-height: 2;}
+
+.logo-crazy{
+  font-family: picnic;
+  font-size: 15rem; 
+  color: crimson;
+
+}
+.info-home a:hover {
+  background-color: bisque;
+}
+
+.info-crazy-logo{
+  font-family: picnic;
+  font-size: 2rem; 
+  
+}
+
+
+@font-face {
+  font-family: "picnic";
+  src: url("../fonts/picnic.woff") format('woff');
+}
