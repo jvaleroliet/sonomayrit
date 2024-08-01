@@ -1,0 +1,17 @@
+---
+layout: cassette-archive
+title: cassette-archive
+permalink: /cassette-archive/
+---
+
+<main>
+    <p>Click to listen<br><br></p>
+    <section class="grille">
+        {% for image in site.static_files %}
+            {% if image.path contains 'images/cassettes' %}
+                <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+            {% endif %}
+        {% endfor %}
+    </section> 
+</main>
+

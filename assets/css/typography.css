@@ -74,3 +74,28 @@ article p+p::before {content:"¶ "; color: crimson;}
   font-family: "picnic";
   src: url("../fonts/picnic.woff") format('woff');
 }
+
+.cassette .grille {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 40px;
+  align-items: center; /* aligne horizontalement les images */
+  grid-auto-flow: dense; /* autorise le réagencement de l’ordre des images pour “densifier” la grille */
+}
+.cassette img {
+  width: 100%;
+  display: block;
+}
+.cassette .landscape { grid-column: span 2; }
+
+.cassette header {
+  position: sticky; 
+  top: 0;
+  background: white;
+  border-bottom: 1px solid;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cassette nav { flex-direction: row; }
+.cassette nav a { padding-left: 1em;}
