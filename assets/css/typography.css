@@ -15,9 +15,6 @@ article p { display: inline;}
 article p+p::before {content:"¶ "; color: crimson;}
 
 
-/*------------ exemple: sidebar */
-.typography-sidebar main { border-left: 1px solid;}
-
 /*------------ exemple: sticky header */
 .typography-sticky header {
   position: sticky; 
@@ -30,23 +27,6 @@ article p+p::before {content:"¶ "; color: crimson;}
 .typography-sticky nav { flex-direction: row; }
 .typography-sticky nav a { padding-left: 1em;}
 
-/*------------ exemple: split */
-.typography-split #header {
-  height: 55vh;
-  border-bottom: 1px solid;
-  position: static;
-  text-align: center;
-}
-.typography-split article {
-  font-size: 3.5vw; 
-  padding: 1em;
-}
-.typography-split section:not(:last-child){
-  border-bottom: 1px solid;
-}
-/* la bordure est affectée soit au header soit à l’article */
-.typography-split section:nth-child(even) header{ border-right: 1px solid; }
-.typography-split section:nth-child(odd) article{ border-right: 1px solid; }
 
 .body-class-home {
     margin: 50px;
@@ -99,3 +79,5 @@ article p+p::before {content:"¶ "; color: crimson;}
 
 .cassette nav { flex-direction: row; }
 .cassette nav a { padding-left: 1em;}
+
+
