@@ -60,7 +60,6 @@ nav a { padding-left: 1em;}
   /* position: relative; */
 }
 
-span[rel]{ width:3em; background: #000; height: .7em; ;display: inline-block;}
 
 p { margin: 0; }
 p + p { text-indent: 2em; }
