@@ -57,7 +57,7 @@ article p+p::before {content:"¶ "; color: crimson;}
 
 .cassette .grille {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   grid-gap: 40px;
   align-items: center; /* aligne horizontalement les images */
   grid-auto-flow: dense; /* autorise le réagencement de l’ordre des images pour “densifier” la grille */
