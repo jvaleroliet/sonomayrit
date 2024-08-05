@@ -12,7 +12,10 @@ a { color: currentColor; }
 nav { margin-top: 1rem; display: flex; flex-direction: column; }
 .info { margin: 1em 0; font-size: 1rem; }
 /* article p { display: inline;} */
-article p::before {content:"¶ "; color: crimson;}
+/* article p::before {content:"¶ "; color: crimson;} */
+article p::before {content:"۞ "; color: crimson;}
+
+
 main p { padding-left: 1rem; margin: 1rem; display: inline-block;}
 
 /*------------ exemple: sticky header */
@@ -35,7 +38,7 @@ main p { padding-left: 1rem; margin: 1rem; display: inline-block;}
 
 .logo-crazy{
   font-family: picnic;
-  font-size: 15vw; 
+  font-size: 10vw; 
   color: #dc143c;
 
 }
