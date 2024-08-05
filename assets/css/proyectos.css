@@ -15,7 +15,7 @@ header {
 
 nav { margin-top: 1rem; display: flex; flex-direction: column; }
 nav { flex-direction: row; }
-nav a { padding-left: 1em;}
+nav a { padding-left: 1em; text-decoration: underline}
 header, main { padding: 1rem; }
 a { color: currentColor; }
 
@@ -34,8 +34,11 @@ h1 { font-size: 16px; font-weight: normal;}
 h1, #filtres, #filtres ul, #filtres li { display: inline; margin: 0; padding:0 }
 
 /* h1:after, #filtres ul:after { content: " — "} */
-a { color:black; text-decoration: bold}
+a { color:black;}
 a.selected { border-bottom: 2px solid black}
+li a { 
+  text-decoration: none;
+}
 
 
 #images { margin-top : 20px; padding: 0}

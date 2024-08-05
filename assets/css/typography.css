@@ -5,15 +5,15 @@
 
 * { margin: 0; box-sizing: border-box;}
 body{ font-family: sans-serif; font-weight: bold; }
-article { font-size: 5vw; line-height: 1.05; }
+article { font-size: 3vw; line-height: 1.05; }
 h1, h2 { font-size: 1em; }
-header, main { padding: 1rem; }
+header {  padding: 1rem; }
 a { color: currentColor; }
 nav { margin-top: 1rem; display: flex; flex-direction: column; }
 .info { margin: 1em 0; font-size: 1rem; }
-article p { display: inline;}
-article p+p::before {content:"¶ "; color: crimson;}
-
+/* article p { display: inline;} */
+article p::before {content:"¶ "; color: crimson;}
+main p { padding-left: 1rem; margin: 1rem; display: inline-block;}
 
 /*------------ exemple: sticky header */
 .typography-sticky header {
@@ -49,6 +49,10 @@ article p+p::before {content:"¶ "; color: crimson;}
   
 }
 
+ img {
+  width: 100vw;
+  display: block;
+}
 
 @font-face {
   font-family: "picnic";
@@ -61,7 +65,9 @@ article p+p::before {content:"¶ "; color: crimson;}
   grid-gap: 40px;
   align-items: center; /* aligne horizontalement les images */
   grid-auto-flow: dense; /* autorise le réagencement de l’ordre des images pour “densifier” la grille */
+  padding-left: 1rem; margin: 1rem;   
 }
+
 .cassette img {
   width: 100%;
   display: block;
@@ -85,3 +91,4 @@ article p+p::before {content:"¶ "; color: crimson;}
   width: 10%;
   display: block;
 }
+
