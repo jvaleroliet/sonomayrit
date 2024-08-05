@@ -1,0 +1,38 @@
+---
+layout: projects
+title: projects
+permalink: /projects/
+---
+
+<header>    
+    <nav id="filtres">
+        <ul>
+            <li><a href="#" class="selected" data-filtre="*">All</a></li>
+            <li><a href="#" data-filtre=".radio">Radio</a></li>
+            <li><a href="#" data-filtre=".live">Live</a></li>
+            <li><a href="#" data-filtre=".other">Other</a></li>
+        </ul>
+    </nav>
+</header>
+<div class="isotope-container">
+    <ul id="images">
+        {% assign sortedPosts = site.projects | sort: 'permalink' | reverse %}
+        {% for project in sortedPosts %}
+            <li class="{{project.class}} kimhiorthoy">
+                <a href="{{ site.baseurl}}{{ project.url }}"><img class="" src="{{ site.baseurl }}/{{ project.picture }}" ></a>
+                <p>{{ project.artists }} &mdash; <strong> {{ project.title }}</strong>, <i>{{ project.institution }}</i> ({{ project.location-year }})</p>
+            </li>
+        {% endfor %}
+        
+    </ul>
+</div>
+
+
+<script src="{{ site.baseurl}}/assets/js/projects/jquery-1.10.1.min.js"></script>
+<script src="{{ site.baseurl}}/assets/js/projects/jquery.isotope.min.js"></script>
+<script src="{{ site.baseurl}}/assets/js/projects/imagesloaded.js"></script>
+<!-- Les actions sont contenues dans le fichier js/main.js -->
+<script src="{{ site.baseurl }}/assets/js/projects/main.js"></script>
+    
+
+

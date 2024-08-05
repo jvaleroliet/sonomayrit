@@ -18,3 +18,7 @@ paginate_pathds: /:num/
 paginate: 5
 
 exclude: [notes.md, _posts/2020-01-01-template.md]
+
+collections:
+  projects:
+    output: true

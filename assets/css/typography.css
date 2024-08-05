@@ -36,7 +36,7 @@ article p+p::before {content:"¶ "; color: crimson;}
 .logo-crazy{
   font-family: picnic;
   font-size: 15vw; 
-  color: crimson;
+  color: #dc143c;
 
 }
 .info-home a:hover {
@@ -57,7 +57,7 @@ article p+p::before {content:"¶ "; color: crimson;}
 
 .cassette .grille {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   grid-gap: 40px;
   align-items: center; /* aligne horizontalement les images */
   grid-auto-flow: dense; /* autorise le réagencement de l’ordre des images pour “densifier” la grille */
@@ -81,3 +81,7 @@ article p+p::before {content:"¶ "; color: crimson;}
 .cassette nav a { padding-left: 1em;}
 
 
+.projects-container img {
+  width: 10%;
+  display: block;
+}
