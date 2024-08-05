@@ -11,7 +11,19 @@ year: 2023
 ---
 
 
-Radio Flouka residency in collaboration with many amazing guests from Andalusia and Morocco. Ibn Said al-Maghribi, born in Granada, compiled the poetry from Mashriq to Maghreb via Mayrit. The anthology presents a geographical map of the poets and musicians from Southwest Asia, North Africa and the South Iberian peninsula. Inspired by this journey, the show focus on the modern music styles from these regions, and the connections between them.
+**Radio Flouka residency, 2023 - 2024.** 
+
+<br>
+
+Ibn Said al-Maghribi, born in Granada, compiled the poetry from Mashriq to Maghreb via Mayrit. The anthology presents a geographical map of the poets and musicians from Southwest Asia, North Africa and the South Iberian peninsula. Inspired by this journey, the show focus on the modern music styles from these regions, and the connections between them.
+
+<br>
+
+With **Retro Cassetta** (Casablanca), **Pablo Pueblo** (Almería) and **Disco Atlas** (Rabat).
+
+<br>
+
+Artwork by [Cris Véguez](https://crisveguez.com/).
 
 <br>
 <br>

@@ -1,6 +1,6 @@
 ---
 layout: project 
-title: From Fusion to Roots. 
+title: From Fusion to Roots
 class: radio
 institution: Refuge Worldwide
 location-year: Berlin, 2024
