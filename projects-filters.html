@@ -19,7 +19,7 @@ permalink: /projects/
         {% assign sortedPosts = site.projects | sort: 'permalink' | reverse %}
         {% for project in sortedPosts %}
             <li class="{{project.class}} kimhiorthoy">
-                <a href="{{ site.baseurl}}{{ project.url }}"><img class="" src="{{ site.baseurl }}/{{ project.picture }}" ></a>
+                {% picture jpt-webp  "{{ project.picture }}" 1:1 --link {{ project.url }} %}
                 <p>{{ project.artists }} &mdash; <strong> {{ project.title }}</strong>, <i>{{ project.institution }}</i> ({{ project.location-year }})</p>
             </li>
         {% endfor %}

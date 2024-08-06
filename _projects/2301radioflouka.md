@@ -5,7 +5,7 @@ class: radio
 institution: Radio Flouka
 location-year: Paris, 2023 - 2024
 artists: Sono Mayrit
-picture: assets/images/radioflouka/fliyer.jpg
+picture: radioflouka/fliyer.jpg
 external_link: https://www.radioflouka.com/residents/sono-mayrit
 year: 2023
 ---

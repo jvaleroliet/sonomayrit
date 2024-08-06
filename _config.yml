@@ -17,8 +17,16 @@ permalink: /:year/:month/:day/:title/
 paginate_pathds: /:num/
 paginate: 5
 
-exclude: [notes.md, _posts/2020-01-01-template.md]
+exclude: [notes.md, _posts/2024-08-01-welcome-to-jekyll.md]
 
 collections:
   projects:
     output: true
+
+
+
+picture:
+  source: "assets/images"
+  output: "assets/images/generated"
+  suppress_warnings: true
+

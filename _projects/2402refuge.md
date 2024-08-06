@@ -5,7 +5,7 @@ class: radio
 institution: Refuge Worldwide
 location-year: Berlin, 2024
 artists: Sono Mayrit
-picture: assets/images/other/refuge.png
+picture: other/refuge.png
 external_link: https://refugeworldwide.com/radio/nofutureberlin-soundz-sono-mayrit-14-may-2024
 year: 2024
 ---
