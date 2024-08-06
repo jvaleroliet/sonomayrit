@@ -1,24 +1,19 @@
 ---
-layout: page
-title: pile
+layout: pile
+
 ---
 
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
-  {% include head-pile.html %}
-<body>
   
-  <div class="pile">
+<div class="pile">
+  <figure>{% picture "photos/diggin1.JPG" --alt * %}</figure>
+  <figure>{% picture "photos/diggin2.JPG" --alt * %}</figure>
+  <figure>{% picture "photos/diggin3b.JPG" --alt * %}</figure>
+<!--       
+  <figure><img src="{{ site.baseurl}}/assets/images/cassettes/MBK5127.png" alt="*"></figure>
+  <figure><img src="{{ site.baseurl}}/assets/images/cassettes/MBK3031.png" alt="*"></figure>
+  <figure><img src="{{ site.baseurl}}/assets/images/cassettes/MBK5195.png" alt="*"></figure>
+-->
 
-    <figure><img src="{{ site.baseurl}}/assets/images/cassettes/MBK7.png" alt="*"></figure>
-    <figure><img src="{{ site.baseurl}}/assets/images/cassettes/MBK5127.png" alt="*"></figure>
-    <figure><img src="{{ site.baseurl}}/assets/images/cassettes/MBK3031.png" alt="*"></figure>
-    <figure><img src="{{ site.baseurl}}/assets/images/cassettes/MBK5195.png" alt="*"></figure>
- 
+</div>
 
-  </div>
-
-  <p><a href="https://publicdomainreview.org/collection/hamann-turner">The Turns of the Turnverein: Heinrich Hamann’s Gymnastic Photographs (ca. 1902)</a></p>
-  <script src="{{ site.baseurl }}/assets/js/pile.js"></script>
-</body>
-</html>
+<p><a href="https://publicdomainreview.org/collection/hamann-turner">The Turns of the Turnverein: Heinrich Hamann’s Gymnastic Photographs (ca. 1902)</a></p>
