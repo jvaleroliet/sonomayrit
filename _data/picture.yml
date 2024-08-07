@@ -1,0 +1,24 @@
+media_queries:
+    mobile: 'max-width: 480px'
+    tablet: 'max-width: 768'
+    laptop: 'max-width: 1024px'
+    desktop: 'max-width: 1200'
+    wide: 'min-width: 1201'
+
+
+presets:
+  horizontal:
+    formats: [original]
+    sizes:
+      mobile: calc(100vw - 16px)
+      tablet: 80vw
+
+    # Size is unconditional; provided either after all conditional sizes (above) or alone. If you
+    # only have a 'size' (no 'sizes'), and it's a constant (px, em, or rem), you should use a
+    # pixel-ratio srcset.
+    size: 800px
+    format_quality:
+      jpg: 100
+      png: 90
+      webp: 100
+
