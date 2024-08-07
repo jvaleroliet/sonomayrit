@@ -1,12 +1,12 @@
 
 * { margin: 0; box-sizing: border-box;}
-body{ font-family: sans-serif; font-weight: bold; }
+body{ font-family: sans-serif; font-weight: bold; margin: 50px; }
 article { font-size: 3vw;}
 h1, h2 { font-size: 1em; }
 header {  padding: 1rem; align-self: center;}
 a { color: currentColor; }
-nav { margin-top: 1rem; display: flex; flex-direction: column; height: 100vh;}
-.info-home{flex:1; display: flex; flex-direction: column; height:50%; justify-content: space-between; padding-bottom:4rem}
+nav { margin-top: 1rem; display: flex; flex-direction: column;}
+/* .info-home{flex:1; display: flex; flex-direction: column; height:50%; justify-content: space-between; padding-bottom:4rem} */
 
 .body-class-home {
     margin-left: 50px;
@@ -14,6 +14,7 @@ nav { margin-top: 1rem; display: flex; flex-direction: column; height: 100vh;}
 .info-home a:hover {
     background-color: bisque;
 }
+.info-home{line-height: 2; }
 
 
 .logo-crazy{
