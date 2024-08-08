@@ -49,6 +49,7 @@ GEM
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-paginate (1.1.0)
+    jekyll-postcss (0.5.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
     jekyll-watch (2.2.1)
@@ -148,6 +149,7 @@ DEPENDENCIES
   jekyll (~> 4.3.3)
   jekyll-feed (~> 0.12)
   jekyll-paginate
+  jekyll-postcss
   jekyll_picture_tag (~> 2.0)
   json
   tzinfo (>= 1, < 3)

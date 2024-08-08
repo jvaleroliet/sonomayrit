@@ -31,3 +31,7 @@ font-family: "picnic";
 src: url("../fonts/picnic.woff") format('woff');
 }
   
+.gimp{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}

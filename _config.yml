@@ -30,3 +30,5 @@ picture:
   output: "assets/images/generated"
   suppress_warnings: true
 
+postcss:
+  cache: false
