@@ -46,7 +46,7 @@ This session is the first part of a larger ongoing research conducted in collabo
 
 <br>
 
-1. **Juan Talega - A Mis Amigos (1966)** <br> Juan Talega sings here one of the most primitive forms of Flamenco: the Martinetes. From *martillo* (hammer), or *martinete*, an instrument with which hot metals were struck in the forge to give them the proper shape. It is a free genre, without meter, a reflection of a desolate state of mind that manifests itself in the form of a very sad lament. Juan Talega, an undisputed master of the ancient and legendary cantes, did not begin to sing in public until he was sixty years old[^Guia].<br>
+1. **Juan Talega - A Mis Amigos (1966)** <br> Juan Talega sings here one of the most primitive forms of Flamenco: the *Martinetes*. From *martillo* (hammer), or *martinete*, a tool with which hot metals were struck in the forge to give them the proper shape. It is a free genre, without meter, a reflection of a desolate state of mind that manifests itself in the form of a very sad lament. Juan Talega, an undisputed master of the ancient and legendary cantes, did not begin to sing in public until he was sixty years old[^Guia].<br>
 <br>
 1. **Munir Bachir - L'Orient En Andalousie (Sources De La Musique Espagnole) (1973?)** <br> Munir Bachir, famous oud player from Iraq, studied the arabic roots of Flamenco[^1] [^2], which he reflected in some of his compositions.The chosen song was recorded at a concert in Geneva, and we can hear harmonic elements of the Andalusian cadence and chords playing in an atypical way of the traditional lute.<br>
 <br>
@@ -62,9 +62,9 @@ This session is the first part of a larger ongoing research conducted in collabo
 <br>
 1. **Mokhtar Al Aroussi - Aji Ya Ghzali (197?)**<br>This song is from the repertory of Aïta Jeblya, a musical genre from northwestern Morocco, that is characterized by Andalusian and Mediterranean influences[^Jeb], with a richer orchestration than other Aïta styles.<br>
 <br>
-1. **Manolo Amaya - Zambra Arbola (1983)**<br>From the Andalusian Arabic voice *zamra* (gathering), it is a descendant of an Andalusian Muslim celebration that involved music and joy. Forbidden in the 16th century, it continued to be practiced clandestinely in the weddings, especially by the Roma communities in the caves of Sacromonte in Granada.<br>
+1. **Manolo Amaya - Zambra Arbola (1983)**<br>From the Andalusian Arabic voice *zamra* (gathering), it is a descendant of an Andalusian Muslim celebration that involved music and joy. Forbidden in the 16th century, it continued to be practiced clandestinely in the weddings, especially by the Roma communities in the caves of Sacromonte in Granada[^Guia].<br>
 <br>
-1. **Mohamed Agair - Tikchbila (197?)**<br>This song originates from a Moorish romance dating back to the 15th or 16th century. Today it is a popular children's song in Morocco, but the lyrics narrate the expulsion of the Moors from Seville and their persecution in the peninsula.<br>
+1. **Mohamed Agair - Tikchbila (197?)**<br>This song originates from a Moorish romance dating back to the 15th or 16th century. Today it is a popular children's song in Morocco, but the lyrics narrate the expulsion of the Moors from Seville and their persecution in the peninsula [^Tikchbila].<br>
 <br>
 1. **Cristobalina - Balcón de Flores (1974)**<br>Cristobalina was a singer born in 1936 who never dedicated herself professionally to singing. Based in the Sevillian town of Lebrija, in this track she sings bulerías, one of the most popular flamenco palos, typical of parties and dance.<br>
 <br>
@@ -92,3 +92,5 @@ This session is the first part of a larger ongoing research conducted in collabo
 [^Lole]: Lole Montoya - [*Anta Oumri*](https://www.youtube.com/watch?v=SU7OhYhZrK4) with the Sono Cairo Orchestra, 1986.
 
 [^C]: Cheqara's [biography](https://web.archive.org/web/20110720143143/http://www.pneumapaniagua.es/index.php?option=com_collection&task=view&catid=10&id=68&Itemid=6&lang=es) by Eduardo Paniagua.     
+
+[^Tikchbila]: *Tikchbila Tiwliwla, la chanson mauresque la plus populaire*, [article](https://agadirmichelterrier.wordpress.com/2016/11/15/tikchbila-tiwliwla-la-chanson-mauresque-la-plus-populaire/)
