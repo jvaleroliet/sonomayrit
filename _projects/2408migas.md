@@ -23,7 +23,7 @@ Al-Andalus, the period of Muslim rule of the Iberian Peninsula, is known for bei
 
 <br>
 
-Beyond the music of the court, a rich musical panorama developed. This included popular Andalusian music, Jewish Sephardic songs, and the sounds of India and Pakistan brought by the Roma population that arrived to the peninsula in the last years of the muslim ruling.
+Beyond the music of the court, a rich musical panorama developed. This included popular Andalusian music, Jewish Sephardic songs, and the sounds of India and Pakistan brought by the Roma population that arrived to the peninsula in the final years of the muslim ruling.
 
 <br>
 
@@ -50,15 +50,15 @@ This session is the first part of a larger ongoing research conducted in collabo
 <br>
 1. **Munir Bachir - L'Orient En Andalousie (Sources De La Musique Espagnole) (1973?)** <br> Munir Bachir, famous oud player from Iraq, studied the arabic roots of Flamenco[^1] [^2], which he reflected in some of his compositions.The chosen song was recorded at a concert in Geneva, and we can hear harmonic elements of the Andalusian cadence and chords playing in an atypical way of the traditional lute.<br>
 <br>
-1. **Field Recording of Sephardic Jews of Thessaloniki - La Rosa Inflorece (1917)** <br> Historical recording of songs of the Sephardic Jewish community of Tessaloniki, which before the 1940s numbered more than 90,000 people, and was almost exterminated by the Nazis (90% of the total population). This song is an old Jewish ballad from the Al Andalus period, preserved orally from generation to generation[^3].<br>
+1. **Field Recording of Sephardic Jews of Thessaloniki - La Rosa Inflorece (1917)** <br> Historical recording of songs of the Sephardic Jewish community of Tessaloniki, which before the 1940s numbered more than 90,000 people, and was almost exterminated by the Nazis (90% of the total population). This song is an old Jewish ballad from the Al Andalus period, preserved orally from generation to generation in an arcaic form of Spanish[^3].<br>
 <br>
 1. **Niña de los Peines - Peteneras nº2 (1911)** <br> Peteneras is a flamenco palo that, as José Romero Jimenez[^4] states, comes from the old Spanish Jewish tradition. Sometimes even the lyrics have a Jewish theme with scenes in Synagogues[^Sinag].<br>
 <br>
-1. **Flora Benamol -  En ca de mi padre, Field Recording of Sephardic Jewish women in Tetuan (1954)** <br> This fantastic record[^5] contains spanish medieval romances (ballads), wedding songs and piyyutim from a comunity of Sephardic Jews of Morocco. They are sung in the old Judeo Spanish dialect called [Haketia](https://en.wikipedia.org/wiki/Haketia), spoken until today in Northern Morocco. Incredibly, some of the songs featured here where still sung too by the Sephardic Jews of Thessaloniki, and they are present also in the previous record.<br>
+1. **Flora Benamol -  En ca de mi padre, Field Recording of Sephardic Jewish women in Tetuan (1954)** <br> This fantastic record[^5] contains spanish medieval romances (ballads), wedding songs and piyyutim from a comunity of Sephardic Jews of Morocco. They are sung in the old Judeo Spanish dialect of the region called [Haketia](https://en.wikipedia.org/wiki/Haketia), spoken until today in Northern Morocco. Incredibly, some of the songs featured here where still sung too by the Sephardic Jews of Thessaloniki, and they are present also in the previous record.<br>
 <br>
 1. **Reinette l'Oranaise - Lik Nechki / Emchi Ya Rassoul (1986)** <br> Reinette L'Oranaise was an Algerian Jewish singer from Oran. She studied with another famous Algerian Jewsih musician, Saoud l'Oranaise (killed by the Nazis in 1943), and learned Arab Andalusian music from him. She did an important work of transcribing Arab Andalusian oral repertorie, and broadcasting it to broader audiences[^Reinette]. The chosen song is a traditional composition that begins by narrating a poem by Cheikh Fadhel from the 18th century, and ends with an anonymous Arabic Andalusian poem from the 13th century.   <br>
 <br>
-1. **Abdessadeq Cheqara - Lalla Meriem (197?)**<br>Born into a family of poets and musicians in Tetouan, Cheqara is one of the most important musicians of Andalusian music. He helped popularize the genre among a wider and less elitist audience, becoming one of the most important voices in Morocco.[^C] He also innovated by incorporating elements of the Chaabi into the Andalusian repertoire and vice versa. In this case, we have an Aïta Jeblya song (see next track) with Andalusian elements, such as his way of singing. <br>
+1. **Abdessadeq Cheqara - Lalla Meriem (197?)**<br>Born into a family of poets and musicians in Tetouan, Cheqara is one of the most important musicians of Andalusian music. He helped popularize the genre among a wider and less elitist audience, becoming one of the most important voices in Morocco.[^C] He also innovated by incorporating elements of the Chaabi into the Andalusian repertoire and vice versa. In this case, we have an Aïta Jeblya song (see next track note) with Andalusian elements, such as his way of singing. <br>
 <br>
 1. **Mokhtar Al Aroussi - Aji Ya Ghzali (197?)**<br>This song is from the repertory of Aïta Jeblya, a musical genre from northwestern Morocco, that is characterized by Andalusian and Mediterranean influences[^Jeb], with a richer orchestration than other Aïta styles.<br>
 <br>
