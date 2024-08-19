@@ -10,7 +10,7 @@ external_link: https://refugeworldwide.com/radio/nofutureberlin-soundz-sono-mayr
 year: 2024
 ---
 
-This selection traces the arabic roots of flamenco starting from the modern fusion sounds. First in Madrid, then in Sevilla and finally in Tangier, the selection goes from flamenco-jazz to andalusian music.
+First in Madrid, then in Sevilla and finally in Tangier, the selection goes from flamenco-jazz to andalusian music.
 
 <br>
 <br>
