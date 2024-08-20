@@ -48,7 +48,7 @@ This session is the first part of a larger ongoing research conducted in collabo
 
 1. **Juan Talega - A Mis Amigos (1966)** <br> Juan Talega sings here one of the most primitive forms of Flamenco: the *Martinetes*. From *martillo* (hammer), or *martinete*, a tool with which hot metals were struck in the forge to give them the proper shape. It is a free genre, without meter, a reflection of a desolate state of mind that manifests itself in the form of a very sad lament. Juan Talega, an undisputed master of the ancient and legendary cantes, did not begin to sing in public until he was sixty years old[^Guia].<br>
 <br>
-1. **Munir Bachir - L'Orient En Andalousie (Sources De La Musique Espagnole) (1973?)** <br> Munir Bachir, famous oud player from Iraq, studied the arabic roots of Flamenco[^1] [^2], which he reflected in some of his compositions.The chosen song was recorded at a concert in Geneva, and we can hear harmonic elements of the Andalusian cadence and chords playing in an atypical way of the traditional lute.<br>
+1. **Munir Bachir - L'Orient En Andalousie (Sources De La Musique Espagnole) (1973?)** <br> Munir Bachir, famous oud player from Iraq, studied the arabic roots of Flamenco[^1] [^2], which he reflected in some of his compositions. The chosen song was recorded at a concert in Geneva, and we can hear harmonic elements of the Andalusian cadence and chords playing in an atypical way of the traditional lute.<br>
 <br>
 1. **Field Recording of Sephardic Jews of Thessaloniki - La Rosa Inflorece (1917)** <br> Historical recording of songs of the Sephardic Jewish community of Tessaloniki, which before the 1940s numbered more than 90,000 people, and was almost exterminated by the Nazis (90% of the total population). This song is an old Jewish ballad from the Al Andalus period, preserved orally from generation to generation in an arcaic form of Spanish[^3].<br>
 <br>
@@ -64,7 +64,7 @@ This session is the first part of a larger ongoing research conducted in collabo
 <br>
 1. **Manolo Amaya - Zambra Arbola (1983)**<br>From the Andalusian Arabic voice *zamra* (gathering), it is a descendant of an Andalusian Muslim celebration that involved music and joy. Forbidden in the 16th century, it continued to be practiced clandestinely in the weddings, especially by the Roma communities in the caves of Sacromonte in Granada[^Guia].<br>
 <br>
-1. **Mohamed Agair - Tikchbila (197?)**<br>This song originates from a Moorish romance dating back to the 15th or 16th century. Today it is a popular children's song in Morocco, but the lyrics narrate the expulsion of the Moors from Seville and their persecution in the peninsula [^Tikchbila].<br>
+1. **Mohamed Agair - Tikchbila (197?)**<br>This song originates from a Moorish romance dating back to the 15th or 16th century. Today it is a popular children's song in Morocco, but the lyrics narrate the expulsion of the Muslims from Seville and their persecution in the Iberian peninsula [^Tikchbila].<br>
 <br>
 1. **Cristobalina - Balcón de Flores (1974)**<br>Cristobalina was a singer born in 1936 who never dedicated herself professionally to singing. Based in the Sevillian town of Lebrija, in this track she sings bulerías, one of the most popular flamenco palos, typical of parties and dance.<br>
 <br>
