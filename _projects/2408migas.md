@@ -68,7 +68,7 @@ This session is the first part of a larger ongoing research conducted in collabo
 <br>
 1. **Manolo Amaya - Zambra Arbola (1983)**<br>From the Andalusian Arabic voice *zamra* (gathering), it is a descendant of an Andalusian Muslim celebration that involved music and joy. Forbidden in the 16th century, it continued to be practiced clandestinely in the weddings, especially by the Roma communities in the caves of Sacromonte in Granada[^Guia].<br>
 <br>
-1. **Mohamed Agair - Tikchbila (197?)**<br>This song originates from a Moorish romance dating back to the 15th or 16th century. Today it is a popular children song in Morocco, but the lyrics narrate the expulsion of the Muslims from Seville and their persecution in the Iberian peninsula [^Tikchbila].<br>
+1. **Mohamed Agair - Tikchbila (197?)**<br>This song originates from a Moorish romance dating back to the 15th or 16th century. Today it is a popular children and wedding song in Morocco, Algeria, and other North African countries, but the lyrics narrate the expulsion of the Muslims from Seville and their persecution in the Iberian peninsula [^Tikchbila].<br>
 <br>
 1. **Cristobalina - Balcón de Flores (1974)**<br>Cristobalina was a singer born in 1936 who never dedicated herself professionally to singing. Based in the Sevillian town of Lebrija, in this track she sings bulerías, one of the most popular flamenco *palos* (subgenres), typical of parties and dance.<br>
 <br>
